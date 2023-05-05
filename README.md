@@ -24,7 +24,9 @@ The 'Synonyms' class:
 - Contains the logic for parsing a corpus of text files and analyzing the frequency of occurrences of each word in the text.
 - Constructs a HashMap of decriptors for each word in the corpus and the resulting descriptor vectors for each word in the descriptors map.
 - Calculates cosine similarity between frequency vectors for the words.
+  - Returns -1.0 if either the primary word or the currently searched, word choice was not found in corpus.
 - Contains a 'toString' method to return the result.
+  - Returns the prompt "There are no synonyms" if either the primary word or all the word choices were not found in corpus.
 
 <br>
 
