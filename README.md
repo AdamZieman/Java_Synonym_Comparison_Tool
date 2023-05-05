@@ -1,4 +1,4 @@
-<h1>Synonyms</h1>
+<h1>Synonym Comparison Tool</h1>
 
 
 
