@@ -30,6 +30,7 @@ The 'Synonyms' class:
 
 ![Output](https://user-images.githubusercontent.com/96446640/236387253-1fc0f754-194b-4ede-a10e-f9dbe71e8c45.png)
 
+<br>
 
 
 <!-- Getting Started -->
