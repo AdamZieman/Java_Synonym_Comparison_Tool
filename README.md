@@ -51,7 +51,7 @@ To run this program, follow these steps:
 
 <!-- Warning -->
 <h2>Warning!</h2>
-Corpus may determine an incorrect synonym. This is can be remedied by either solution.
+Due to the limited size of corpus, the program may determine an incorrect synonym. This is can be remedied by either solution.
 <br><br>
 
 - Increase the size of corpus to increase the amount of data the program has access to.
