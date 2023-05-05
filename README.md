@@ -49,6 +49,20 @@ To run this program, follow these steps:
 
 
 
+<!-- Warning -->
+<h2>Warning!</h2>
+Corpus may determine an incorrect synonym. This is can be remedied by either solution.
+<br><br>
+
+- Increase the size of corpus to increase the amount of data the program has access to.
+- Tailor the corpus to match the category of the primary word.
+  - If primary word is a historical word, then fill corpus with historical text;
+  - If primary word is a sports word, then fill corpus with sports text.
+
+<br>
+
+
+
 <!-- Acknowledgments -->
 <h2>Acknowledgments</h2>
 The program uses the following eight classic novels from Project Gutenberg as the corpus for generating synonyms:
