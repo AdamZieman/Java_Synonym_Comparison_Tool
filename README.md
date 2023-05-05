@@ -33,6 +33,7 @@ The 'Synonyms' class:
 <!-- Getting Started -->
 <h2>Getting Started</h2>
 To run this program, follow these steps:
+<br><br>
 
 1. Clone the project from GitHub.
 2. Open the project in your Java IDE.
@@ -41,3 +42,21 @@ To run this program, follow these steps:
 5. Enter a list of word choices (seperated by spaces) when prompted.
 6. The program will determine the closest synonym and print the result to the consolue.
 7. To exit the program, enter an empty string for the primary word.
+
+<br>
+
+
+
+<!-- Acknowledgments -->
+<h2>Acknowledgments</h2>
+The program uses the following eight classic novels from Project Gutenberg as the corpus for generating synonyms:
+<br><br>
+
+- Pride and Prejudice, by Jane Austen
+- The Adventures of Sherlock Holmes, by A. Conan Doyle
+- A Tale of Two Cities, by Charles Dickens
+- Alice's Adventures In Wonderland, by Lewis Carroll
+- Moby Dick; or The Whale, by Herman Melville
+- War and Peace, by Leo Tolstoy
+- The Importance of Being Earnest, by Oscar Wilde
+- The Wisdom of Father Brown, by G.K. Chesterton
