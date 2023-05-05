@@ -9,8 +9,6 @@ This program utilizes natural language processing techniques to find the closest
 
 The program consists of two classes: 'Main' and 'Synonyms'.
 
-<br>
-
 The 'Main' class:
 - Generates a corpus of classic literature by attempting to create a predefined array of URLs to literature from www.gutenberg.org.
 - Enters a loop which:
@@ -29,6 +27,8 @@ The 'Synonyms' class:
   - Returns the prompt "There are no synonyms" if either the primary word or all the word choices were not found in corpus.
 
 <br>
+
+![Output](https://user-images.githubusercontent.com/96446640/236387253-1fc0f754-194b-4ede-a10e-f9dbe71e8c45.png)
 
 
 
