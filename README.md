@@ -27,32 +27,22 @@
 - Contains a 'toString' method to return the result.
   - Returns the prompt "There are no synonyms" if either the primary word or all the word choices were not found in corpus.
 
-<br>
-
 ![Output](https://user-images.githubusercontent.com/96446640/236387253-1fc0f754-194b-4ede-a10e-f9dbe71e8c45.png)
-
-<br>
 
 
 
 <!-- Limitations -->
 <h2><b>Limitations</b></h2>
-Due to the limited size of corpus, the program may determine an incorrect synonym. This is can be remedied by either solution.
-<br><br>
+<p>Due to the limited size of corpus, the program may determine an incorrect synonym. This is can be remedied by either solution.</p>
 
 - Increase the size of corpus to increase the amount of data the program has access to.
 - Tailor the corpus to match the category of the primary word.
   - If primary word is a historical word, then fill corpus with historical text;
   - If primary word is a sports word, then fill corpus with sports text.
 
-<br>
-
-
-
 <!-- Acknowledgments -->
 <h2><b>Acknowledgments</b></h2>
-The program uses the following eight classic novels from Project Gutenberg as the corpus for generating synonyms:
-<br><br>
+<p>The program uses the following eight classic novels from Project Gutenberg as the corpus for generating synonyms:</p>
 
 - Pride and Prejudice, by Jane Austen
 - The Adventures of Sherlock Holmes, by A. Conan Doyle
