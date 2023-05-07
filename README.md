@@ -3,22 +3,23 @@
 
 
 <!-- Program Description -->
-This program utilizes natural language processing techniques to find the closest synonym for a given word based on a list of word choices. To achieve this, the program uses the cosine similarity between frequency vectors for the words to determine the synonym.
+<p>This program utilizes natural language processing techniques to find the closest synonym for a given word based on a list of word choices. To achieve this, the program uses the cosine similarity between frequency vectors for the words to determine the synonym.</p>
 
-<br>
 
-The program consists of two classes: 'Main' and 'Synonyms'.
 
-The 'Main' class:
+<!-- How It Works -->
+<h2><b>How It Works</b></h2>
+<p>The program consists of two classes: 'Main' and 'Synonyms'.</p>
+<p>The 'Main' class:</p>
+
 - Generates a corpus of classic literature by attempting to create a predefined array of URLs to literature from www.gutenberg.org.
 - Enters a loop which:
   - Prompts the user to enter a primary word and a list of word choices.
   - Uses the 'Synonyms' class to calculate the cosine similarity between the primary word and the word choices.
   - Prints the result.
 
-<br>
+<p>The 'Synonyms' class:</p>
 
-The 'Synonyms' class:
 - Contains the logic for parsing a corpus of text files and analyzing the frequency of occurrences of each word in the text.
 - Constructs a HashMap of decriptors for each word in the corpus and the resulting descriptor vectors for each word in the descriptors map.
 - Calculates cosine similarity between frequency vectors for the words.
@@ -35,7 +36,7 @@ The 'Synonyms' class:
 
 
 <!-- Limitations -->
-<h2>Limitations</h2>
+<h2><b>Limitations</b></h2>
 Due to the limited size of corpus, the program may determine an incorrect synonym. This is can be remedied by either solution.
 <br><br>
 
@@ -49,7 +50,7 @@ Due to the limited size of corpus, the program may determine an incorrect synony
 
 
 <!-- Acknowledgments -->
-<h2>Acknowledgments</h2>
+<h2><b>Acknowledgments</b></h2>
 The program uses the following eight classic novels from Project Gutenberg as the corpus for generating synonyms:
 <br><br>
 
