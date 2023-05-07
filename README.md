@@ -33,22 +33,6 @@ The 'Synonyms' class:
 <br>
 
 
-<!-- Getting Started -->
-<h2>Getting Started</h2>
-To run this program, follow these steps:
-<br><br>
-
-1. Clone the project from GitHub.
-2. Open the project in your Java IDE.
-3. Run the 'Main' class.
-4. Enter a primary word when prompted.
-5. Enter a list of word choices (seperated by spaces) when prompted.
-6. The program will determine the closest synonym and print the result to the consolue.
-7. To exit the program, enter an empty string for the primary word.
-
-<br>
-
-
 
 <!-- Limitations -->
 <h2>Limitations</h2>
