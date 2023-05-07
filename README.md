@@ -50,8 +50,8 @@ To run this program, follow these steps:
 
 
 
-<!-- Warning -->
-<h2>Warning!</h2>
+<!-- Limitations -->
+<h2>Limitations</h2>
 Due to the limited size of corpus, the program may determine an incorrect synonym. This is can be remedied by either solution.
 <br><br>
 
