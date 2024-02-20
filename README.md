@@ -3,7 +3,7 @@
 
 
 <!-- Program Description -->
-<p>This program utilizes natural language processing techniques to find the closest synonym for a given word based on a list of word choices. To achieve this, the program uses the cosine similarity between frequency vectors for the words to determine the synonym.</p>
+<p>This program uses text processing to find the closest synonym for a given word based on a list of word choices. To achieve this, the program uses the cosine similarity between frequency vectors for the words to determine the synonym.</p>
 
 
 
